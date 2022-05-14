@@ -11,5 +11,5 @@ Git is not the same as GitHub.GitHub makes tools that use Git.
 
 # Using Git with Command Line
 -  To check if Git is properly installed , If Git is installed, it should show something like - 
-      git --version
-      git version 2.36.0.windows.1
+     -  git --version
+     -  git version 2.36.0.windows.1
